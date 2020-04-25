@@ -1,8 +1,8 @@
-////import java.util.Scanner;
-////
-////public class StringPalindrome6 {// tersden de ayni sekilde okunan kelime
-////
-////	public static void main(String[] args) {
+//import java.util.Scanner;
+//
+//public class StringPalindrome6 {// tersden de ayni sekilde okunan kelime
+//
+//	public static void main(String[] args) {
 //
 //
 //// Function that returns true if String is a palindrome
@@ -51,7 +51,9 @@
 //		}
 //		
 //		
-//		
+//		 public static void main(String[] args) {
+        
+
 //		
 //		
 //		

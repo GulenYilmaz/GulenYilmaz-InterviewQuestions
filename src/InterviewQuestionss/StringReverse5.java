@@ -9,19 +9,20 @@ public class StringReverse5 {
 		
 		String str="Opportunity seldom knocks twice";
 		
-		char[] chars= str.toCharArray();
-		int length= chars.length;
+		char[] arrays=str.toCharArray();
+		
+		int length= arrays.length;
 		
 		System.out.println(length);
 		
 		for(int i=length-1;i>=0;i--) {
 		
-			System.out.print(chars[i]);
+			System.out.print(arrays[i]);
 	    }
+		System.out.println("");
 		
 		
-		
-		
+		System.out.println("-----second way-------");
 		
 		
 		
@@ -35,6 +36,16 @@ public class StringReverse5 {
 			revered=revered+given.charAt(i);
 		}
 		System.out.println("Reversed String = "+revered);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		String[] array=given.split(" ");
 		String reverseWords="";
