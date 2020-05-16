@@ -1,3 +1,4 @@
+package Java__InterviewQuestionss;
 //import java.util.Scanner;
 //
 //public class StringPalindrome6 {// tersden de ayni sekilde okunan kelime

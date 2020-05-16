@@ -1,4 +1,4 @@
-package InterviewQuestionss;
+package Java__InterviewQuestionss;
 
 public class JavaQuiz2 {
 
