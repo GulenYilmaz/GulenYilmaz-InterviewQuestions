@@ -28,5 +28,19 @@ What is the difference between driver.findElement() and driver.findElements() co
 What is the return type of findElements?
  */
 public class week__6 {
-
+/*
+ * Acceptance Criteria:
+ 1. Login with valid username and invalid password
+ Given user navigated to HRMS
+ When user enters valid username and invalid password
+ Then user see “Invalid credentials” error message
+ 2. Login with valid username and without password
+ Given user navigated to HRMS
+ When user enters valid username and empty password
+ Then user see “Password can not be empty” error message
+ 3. Login without username and valid password
+ Given user navigated to HRMS
+ When user enters valid username and empty password
+ Then user see “Username can not be empty” error message
+ */
 }
