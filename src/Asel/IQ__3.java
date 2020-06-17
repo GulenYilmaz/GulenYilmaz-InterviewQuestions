@@ -25,5 +25,39 @@ My interview questions today (Cognizant -Florida, by phone)
  * 
  */
 public class IQ__3 {
+/*
+ * 
+ * group works we should do together:
+ * 
+ * Do Sprint Grooming
+make sure all team members understand each user story and assign points to every user story
 
+2. Do Sprint Planning
+each team member needs to pick at least 1 user story that he/she is comfortable with and assigns it is own tasks to chosen user story
+
+3. Analyze each part of the framework
+make sure each team member understand flow of the framework and what each piece is responsible for 
+
+4. Start working on framework
+
+create from scratch, do not copy and paste
+
+dependencies
+pages
+features
+steps
+hooks
+runners
+etc
+
+5. Help each other
+if any team member faces any difficulties during project/automation please make sure to solve an issues as a team
+
+6. Final steps:
+make sure you code is executed through maven
+makes sure code generates report and add screenshots to it
+make sure you project is on your own GitHub repository
+
+Note: if any questions are unclear please assign test lead and test lead should communicate or ask questions
+ */
 }
