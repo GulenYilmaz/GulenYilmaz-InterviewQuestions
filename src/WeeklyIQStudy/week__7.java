@@ -27,7 +27,7 @@ to frame directly?
 an element not found exception, how will you handle this situation? What might be
 the problem in this case?
  */
-public class week_7 {
+public class week__7 {
 /*
  * public class Tester {
 	public static void main(String[] args) {
@@ -85,5 +85,23 @@ formatters and some common third-party plugins.
    excel and store to MAP/LIST
     List<Map<String,String>> addEmployeeList  = dataTable.asMapList();
 	 * 
+	 */
+	
+	
+	
+	/*
+	 * WhatisVerificationandValidation?
+Verification happens during developing by testers and developers; 
+it is a process of evaluating software at development phase and to decide whether the product of a given application satisfies the specified requirements.
+Validation by testers; is the process of evaluating software at the end of the development process and to check whether it meets the customer requirements. 
+:+1:
+3
+
+11:47
+Verification is when you are analyzing requirements and test cases to ensure we cover all scenarios and 
+
+
+we are creating the right product and here there is no code involved. Simply reviewing documents to ensure everything is covered and NO coding is involved.
+ Validation is when we are executing our test cases and actually writing code to verify the system
 	 */
 }
