@@ -34,6 +34,15 @@ JUnit.
  @AfterSuite
  * 
  * 
- * 
+ * What is Assertion in TESTNG?
+TestNG Asserts helps us to verify the conditions of the test in the middle of the test run  and decide whether test has failed or passed. A test is considered successful ONLY if it is completed without throwing any exception.
+TestNG Asserts are the most frequently used methods while creating Selenium Scripts. 
+Here I do take two test conditions. In the first condition, I take a title value correctly and use assertEquals statement and in the second condition, I take incorrect title value to deliberately throw the exception.
+Step 1: Open Gmail
+Step 2: Verify whether the title matches to the given String. If it matches, go to the email field and type the given text in the sendKeys method else it throws an exception
+Note: In this step, I took the actualTitle value correctly in the below script. So it goes to the email filed and type the given text.
+Step 3: Again open gmail
+Step 4: Verify whether the title matches to the given String. If it matches, go to the email field and type the given text in the sendKeys method else it throws an exception
+Note: In this step, I took incorrect actualTitle value. Here due to assertion fails, it throws an exception.
  */
 }
