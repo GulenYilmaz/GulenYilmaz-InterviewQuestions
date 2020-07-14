@@ -1,0 +1,17 @@
+package Java_Certification__Questions;
+
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
+public class QQ78 {
+	 public static void main(String[] args) {
+	        String date = LocalDate.parse("2014-05-04").format(DateTimeFormatter.ISO_DATE_TIME);
+	        System.out.println(date);
+	    }
+	}
+	//if we can use date time format we need to write parse with same format
+
+	/*
+	Answer D : An exception is thrown at runtime
+	The exception : Exception in thread "main" java.time.temporal.UnsupportedTemporalTypeException: Unsupported field: HourOfDay
+	 */
