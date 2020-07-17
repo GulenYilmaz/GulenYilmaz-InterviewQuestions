@@ -1,4 +1,4 @@
-package Introductor__Hsn__OOP;
+package Introductor__Hsn__OOP01;
 public class Horse extends Animal{
 	
 	String breed;
