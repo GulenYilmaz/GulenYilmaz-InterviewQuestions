@@ -11,7 +11,7 @@ public class Bicycle implements Vehicle{
 	
 	@Override
 	public void speedUp(int increment) {
-​
+		
 		speed+=increment;
 	}
 

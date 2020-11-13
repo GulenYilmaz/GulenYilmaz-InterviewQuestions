@@ -1,5 +1,7 @@
 package Introductor__Hsn__OOP03;
 
-public class C {
+public  interface  C {
+
+	void method1();
 
 }

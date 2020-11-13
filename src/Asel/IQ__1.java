@@ -1,6 +1,6 @@
 package Asel;
 
-public class IQ__1 {
+
 /*
  * some questions from recent interviews. Please discuss them here or within your team
 :heavy_check_mark: What is mutable?
@@ -13,4 +13,5 @@ public class IQ__1 {
 :heavy_check_mark: What is this keyword?
  * 
  */
-}
+	
+
